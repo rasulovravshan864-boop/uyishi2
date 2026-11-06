@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Avatar",
+        "genre": "Fantastika",
+        "price": 40000
+    },
+    {
+        "title": "Sherlock",
+        "genre": "Detektiv",
+        "price": 30000
+    },
+    {
+        "title": "Oq yol",
+        "genre": "Drama",
+        "price": 25000
+    },
+    {
+        "title": "Dune",
+        "genre": "Fantastika",
+        "price": 35000
+    }
+]
